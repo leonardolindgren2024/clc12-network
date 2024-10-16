@@ -135,5 +135,3 @@ resource "aws_eip" "ec2_app_instance_ip" {
     Name = "Web-Server-EIP"
   }
 }
-
-
